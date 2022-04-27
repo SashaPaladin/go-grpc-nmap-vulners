@@ -1,0 +1,4 @@
+server:
+  host: "localhost"
+  port: "8000"
+  loglevel: "Sorry I don't know what it is"
