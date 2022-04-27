@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  nmap-vulners:
+    build: ./
+    command: ./nmap-vulners
+    ports:
+      - "8000:8000"
